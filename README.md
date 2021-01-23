@@ -32,10 +32,10 @@ alt="alt text"  >
   
  1. Preparing
  
-![](file:///C:/Users/john/Desktop/vsd/Capture3.PNG)
+![Capture3](https://user-images.githubusercontent.com/77826778/105609006-5d99bc80-5dcc-11eb-9915-9001fb5c6189.PNG)
 
 
- 2. Running Synthesis
+ 2. Running Synthesis: This is done using the command run_synthesis.
  
   ![Capture2](https://user-images.githubusercontent.com/77826778/105607225-9e410800-5dc3-11eb-9516-fe645dad0811.PNG)
   
@@ -43,7 +43,7 @@ alt="alt text"  >
   
   [Lab Exercise]
   
-  1. Running floorplan
+  1. Running floorplan: This is done using the command run_floorplan.
   
   ![Capture5](https://user-images.githubusercontent.com/77826778/105608789-2676db80-5dcb-11eb-9fa6-a9d24774f71d.PNG)
   
