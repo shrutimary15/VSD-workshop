@@ -35,6 +35,8 @@ alt="alt text"  >
 
 
  2. Running Synthesis
+  ![Capture2](https://user-images.githubusercontent.com/77826778/105607225-9e410800-5dc3-11eb-9516-fe645dad0811.PNG)
+  
   
   
  
