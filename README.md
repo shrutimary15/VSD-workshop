@@ -30,19 +30,10 @@ alt="alt text"  >
   
   [Lab Exercise]
   
- 1. Preparing and checking the clock period in config.tcl
+ 1. Preparing
  ![Capture](https://user-images.githubusercontent.com/77826778/105607175-5e7a2080-5dc3-11eb-8cfe-ed7a4a64b1c3.PNG)
 
- <p align="center">
-<img src=" https://github.com/shrutimary15/VSD-workshop/blob/main/Capture.PNG" 
-alt="alt text"  >
-<p/>
-<br/>
-<p align="center">
-<img src=" https://github.com/shrutimary15/VSD-workshop/blob/main/Capture.PNG" 
-alt="alt text"  >
-<p/>
-<br/>
+
  2. Running Synthesis
   
   
