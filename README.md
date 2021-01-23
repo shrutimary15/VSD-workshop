@@ -20,7 +20,20 @@ alt="alt text"  >
   * Characterization flow
   
   
-  #**DAY 1:**
+  # DAY 1:
+  
+  OPENLANE : OpenLANE is a open source VLSI flow from RTL to GDSII built across open source tools such as OPENROAD, Yosys, Magic, Fault, etc.
+  
+  SKY130A: The SkyWater Open Source PDK is a collaboration between Google and SkyWater Technology Foundry to provide a fully open source Process Design Kit.
+  
+  The process begins with synthesis then followed by floor planning, power planning, placement, routing and static timing analysis. The figure below shows the flow diagram of     complete process.
+  
+  [Lab Exercise]
+  
+ 1. Preparing and checking the clock period in config.tcl
+ 
+ 
+ 2. Running Synthesis
   
   
  
