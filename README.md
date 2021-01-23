@@ -1,4 +1,4 @@
-# VSD-WORKSHOP
+# **VSD-WORKSHOP**
 This repository presents the information about the 5 day workshop conducted by VLSI system design under the guidance of Mr. Kunal Ghosh. The workshop is based on Advanced Physical Design using OpenLANE/SOC.The schedule is given below followed by detailed account:
 <p align="center">
 <img src="https://github.com/shrutimary15/VSD-workshop/blob/main/photo_2021-01-23_19-54-03.jpg" 
@@ -21,12 +21,14 @@ alt="alt text"  >
   
   
   # DAY 1:
-  
+ [Theory]
+ 
   OPENLANE : OpenLANE is a open source VLSI flow from RTL to GDSII built across open source tools such as OPENROAD, Yosys, Magic, Fault, etc.
   
   SKY130A: The SkyWater Open Source PDK is a collaboration between Google and SkyWater Technology Foundry to provide a fully open source Process Design Kit.
   
   The process begins with synthesis then followed by floor planning, power planning, placement, routing and static timing analysis. The figure below shows the flow diagram of     complete process.
+  
   
   [Lab Exercise]
   
@@ -35,7 +37,7 @@ alt="alt text"  >
 ![Capture3](https://user-images.githubusercontent.com/77826778/105609006-5d99bc80-5dcc-11eb-9915-9001fb5c6189.PNG)
 
 
- 2. Running Synthesis: This is done using the command run_synthesis.
+ 2. Running Synthesis: This is done using the command ```run_synthesis```
  
   ![Capture2](https://user-images.githubusercontent.com/77826778/105607225-9e410800-5dc3-11eb-9516-fe645dad0811.PNG)
   
@@ -43,11 +45,11 @@ alt="alt text"  >
   
   [Lab Exercise]
   
-  1. Running floorplan: This is done using the command run_floorplan.
+  1. Running floorplan: This is done using the command ```run_floorplan```
   
   ![Capture5](https://user-images.githubusercontent.com/77826778/105608789-2676db80-5dcb-11eb-9fa6-a9d24774f71d.PNG)
   
-  2. Running placement: This is done using the command run_placement.
+  2. Running placement: This is done using the command ```run_placement```
   
   ![Capture7](https://user-images.githubusercontent.com/77826778/105609360-cd10ab80-5dce-11eb-8f66-cf04798b1279.PNG)
   
