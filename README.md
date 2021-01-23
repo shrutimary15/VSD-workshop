@@ -31,10 +31,12 @@ alt="alt text"  >
   [Lab Exercise]
   
  1. Preparing
+ 
  ![Capture](https://user-images.githubusercontent.com/77826778/105607175-5e7a2080-5dc3-11eb-8cfe-ed7a4a64b1c3.PNG)
 
 
  2. Running Synthesis
+ 
   ![Capture2](https://user-images.githubusercontent.com/77826778/105607225-9e410800-5dc3-11eb-9516-fe645dad0811.PNG)
   
   
