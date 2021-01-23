@@ -10,7 +10,7 @@ This repository presents the information about the 5 day workshop conducted by V
   
   #**Day 2: IDEA OF FLOORPLAN AND PLACEMENT**
   * Utilization factor and aspect ratio, floor planning and preplaced cells, decoupling capacitors, power planning, pin placement
-  * Library
+  * Library binding and placement
   * Cell Design Flow
   * Characterization flow
   
