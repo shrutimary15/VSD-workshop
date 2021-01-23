@@ -47,4 +47,7 @@ alt="alt text"  >
   
   ![Capture5](https://user-images.githubusercontent.com/77826778/105608789-2676db80-5dcb-11eb-9fa6-a9d24774f71d.PNG)
   
+  2. Running placement: This is done using the command run_placement.
+  
+  
  
