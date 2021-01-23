@@ -31,7 +31,6 @@ alt="alt text"  >
   [Lab Exercise]
   
  1. Preparing and checking the clock period in config.tcl
- https://github.com/shrutimary15/VSD-workshop/blob/main/Capture.PNG
  <p align="center">
 <img src=" https://github.com/shrutimary15/VSD-workshop/blob/main/Capture.PNG" 
 alt="alt text"  >
