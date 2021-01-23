@@ -1,7 +1,10 @@
 # VSD-WORKSHOP
 This repository presents the information about the 5 day workshop conducted by VLSI system design under the guidance of Mr. Kunal Ghosh. The workshop is based on Advanced Physical Design using OpenLANE/SOC.The schedule is given below followed by detailed account:
-
-https://github.com/shrutimary15/VSD-workshop/blob/main/photo_2021-01-23_19-54-03.jpg
+<p align="center">
+<img src="https://github.com/shrutimary15/VSD-workshop/blob/main/photo_2021-01-23_19-54-03.jpg" 
+alt="alt text"  >
+<p/>
+<br/>
 
 #**Day 1: BASICS OF OPEN SOURCE EDA, OPENLANE AND SKY 130 PDK**
   * Introduction to QFN 48 package,die,core and IPs
