@@ -39,6 +39,12 @@ alt="alt text"  >
  
   ![Capture2](https://user-images.githubusercontent.com/77826778/105607225-9e410800-5dc3-11eb-9516-fe645dad0811.PNG)
   
+  # DAY 2:
   
+  [Lab Exercise]
+  
+  1. Running floorplan
+  
+  ![Capture5](https://user-images.githubusercontent.com/77826778/105608789-2676db80-5dcb-11eb-9fa6-a9d24774f71d.PNG)
   
  
