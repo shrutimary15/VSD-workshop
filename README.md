@@ -29,6 +29,8 @@ alt="alt text"  >
   
   The process begins with synthesis then followed by floor planning, power planning, placement, routing and static timing analysis. The figure below shows the flow diagram of     complete process.
   
+  ![openlane flow 1](https://user-images.githubusercontent.com/77826778/105610075-7fe30880-5dd3-11eb-8927-1b4b084010de.png)
+  
   
   [Lab Exercise]
   
