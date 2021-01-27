@@ -64,15 +64,18 @@ alt="alt text"  >
   
  1. Invoking OpenLANE: Picorv32a design can be synthesized using openLANE. OpenLANE can be invoked in interactive mode by using the command ```./flow.tcl -interactive```.  The package can be included by using command ```package require openlane 0.9```. The design is prepared using the command ```prep -design picorv32a```. To edit any parameter in config.tcl ```set env(PARAMETER_NAME) parameter_value``` command can be used. Use -overwrite to reflect these changes in design.
  
-![Capture3](https://user-images.githubusercontent.com/77826778/105609006-5d99bc80-5dcc-11eb-9915-9001fb5c6189.PNG)
+      ![Capture3](https://user-images.githubusercontent.com/77826778/105609006-5d99bc80-5dcc-11eb-9915-9001fb5c6189.PNG)
 
 
  2. Running Synthesis: This is done using the command ```run_synthesis```
  
-  ![Capture2](https://user-images.githubusercontent.com/77826778/105607225-9e410800-5dc3-11eb-9516-fe645dad0811.PNG)
+      ![Capture2](https://user-images.githubusercontent.com/77826778/105607225-9e410800-5dc3-11eb-9516-fe645dad0811.PNG)
   
   # DAY 2:
-  
+  [Theory]
+   
+   *Floorplanning* is the planning of placement of IO pads and macros as well as power and ground structure. It is an art of using optimum area and obtaining high performance.
+   
   [Lab Exercise]
   
   1. Running floorplan: This is done using the command ```run_floorplan```
