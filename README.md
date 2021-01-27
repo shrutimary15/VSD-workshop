@@ -62,7 +62,7 @@ alt="alt text"  >
   
   [Lab Exercise]
   
- 1. Preparing
+ 1. Invoking OpenLANE: Picorv32a design can be synthesized using openLANE. OpenLANE can be invoked in interactive mode by using the command ```./flow.tcl -interactive```.  The package can be included by using command ```package require openlane 0.9```. The design is prepared using the command ```prep -design picorv32a```. To edit any parameter in config.tcl ```set env(PARAMETER_NAME) parameter_value``` command can be used. Use -overwrite to reflect these changes in design.
  
 ![Capture3](https://user-images.githubusercontent.com/77826778/105609006-5d99bc80-5dcc-11eb-9915-9001fb5c6189.PNG)
 
