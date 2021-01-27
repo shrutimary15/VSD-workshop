@@ -1,10 +1,13 @@
-# **VSD-WORKSHOP**
-This repository presents the information about the 5 day workshop conducted by VLSI system design under the guidance of Mr. Kunal Ghosh. The workshop is based on Advanced Physical Design using OpenLANE/SOC.The schedule is given below followed by detailed account:
+# ****VSD-WORKSHOP****
+This repository presents the information about the 5 day workshop conducted by VLSI system design. The workshop is based on Advanced Physical Design using OpenLANE/SOC.The schedule is given below followed by detailed account:
+(Image Courtesy: Google) 
 <p align="center">
 <img src="https://github.com/shrutimary15/VSD-workshop/blob/main/photo_2021-01-23_19-54-03.jpg" 
 alt="alt text"  >
 <p/>
 <br/>
+
+# **TABLE OF CONTENTS**
 
   #**1. BASICS OF OPEN SOURCE EDA, OPENLANE AND SKY 130 PDK**
   * Introduction to QFN 48 package,die,core and IPs
@@ -47,10 +50,15 @@ alt="alt text"  >
   
   SKY130A: The SkyWater Open Source PDK is a collaboration between Google and SkyWater Technology Foundry to provide a fully open source Process Design Kit.
   
-  The process begins with synthesis then followed by floor planning, power planning, placement, routing and static timing analysis. The figure below shows the flow diagram of     complete process.
-  
+  The process begins with synthesis then followed by floor planning, power planning, placement, routing and static timing analysis. The figure below shows the flow diagram of     complete process.(Image Courtesy: Google)
   ![openlane flow 1](https://user-images.githubusercontent.com/77826778/105610075-7fe30880-5dd3-11eb-8927-1b4b084010de.png)
-  
+  Tools used in openlane are-
+   *Yosys - Performs RTL synthesis
+   *abc- Performs technology mapping
+   *OpenSTA- performs static timing analysis
+   *Fast Route- Performs global routing
+   *TritonRoute- Performs detailed routing
+   *Magic- Streams out the layout of GDSII
   
   [Lab Exercise]
   
