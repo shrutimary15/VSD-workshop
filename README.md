@@ -62,7 +62,7 @@ alt="alt text"  >
   
   [Lab Exercise]
   
- 1. Invoking OpenLANE: Picorv32a design can be synthesized using openLANE. OpenLANE can be invoked in interactive mode by using the command ```./flow.tcl -interactive```.  The package can be included by using command ```package require openlane 0.9```. The design is prepared using the command ```prep -design picorv32a```. To edit any parameter in config.tcl ```set env(PARAMETER_NAME) parameter_value``` command can be used. Use -overwrite to reflect these changes in design.
+ 1. Invoking OpenLANE: Picorv32a design can be synthesized using openLANE. OpenLANE can be invoked in interactive mode by using the command ```./flow.tcl -interactive```.  The       package can be included by using command ```package require openlane 0.9```. The design is prepared using the command ```prep -design picorv32a```. To edit any parameter in     config.tcl ```set env(PARAMETER_NAME) parameter_value``` command can be used. Use -overwrite to reflect these changes in design.
  
       ![Capture3](https://user-images.githubusercontent.com/77826778/105609006-5d99bc80-5dcc-11eb-9915-9001fb5c6189.PNG)
 
@@ -74,16 +74,38 @@ alt="alt text"  >
   # DAY 2:
   [Theory]
    
-   *Floorplanning* is the planning of placement of IO pads and macros as well as power and ground structure. It is an art of using optimum area and obtaining high performance.
-   
+   Floorplanning is the planning of placement of IO pads and macros as well as power and ground structure. It is an art of using optimum area and obtaining high performance.
+   The floorplan is displaced in magic window.      
+    
+    
   [Lab Exercise]
   
-  1. Running floorplan: This is done using the command ```run_floorplan```
+  1. Running floorplan: This is done using the command ```run_floorplan```.
+     Some basic command to use in magic 
+           
+         s – select
+         v — fit layout
+         After selecting a layer, typing `what` in tkcon 2.3 main window gives the description of the layer.
   
-  ![Capture5](https://user-images.githubusercontent.com/77826778/105608789-2676db80-5dcb-11eb-9fa6-a9d24774f71d.PNG)
+     ![Capture5](https://user-images.githubusercontent.com/77826778/105608789-2676db80-5dcb-11eb-9fa6-a9d24774f71d.PNG)
   
   2. Running placement: This is done using the command ```run_placement```
   
-  ![Capture7](https://user-images.githubusercontent.com/77826778/105609360-cd10ab80-5dce-11eb-8f66-cf04798b1279.PNG)
+     ![Capture7](https://user-images.githubusercontent.com/77826778/105609360-cd10ab80-5dce-11eb-8f66-cf04798b1279.PNG)
+  
+  # DAY 3:
+  [Theory]
+   
+   16 MASK CMOS PREPARATION-
+   Following are the steps in CMOS preparation-
+   
+    Selecting a substrate.
+    Creating active region for transistors
+    N-Well and P-Well formation
+    Formation of ‘gate'
+    Lightly doped drain(LDD) formation
+    Source and drain formation
+    Steps to form contacts and interconnects(local)
+    Higher level metal formation
   
  
