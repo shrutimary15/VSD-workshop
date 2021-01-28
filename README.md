@@ -52,13 +52,13 @@ alt="alt text"  >
   
   The process begins with synthesis then followed by floor planning, power planning, placement, routing and static timing analysis. The figure below shows the flow diagram of     complete process.(Image Courtesy: Google)
   ![openlane flow 1](https://user-images.githubusercontent.com/77826778/105610075-7fe30880-5dd3-11eb-8927-1b4b084010de.png)
-  Tools used in openlane are-
-   *Yosys - Performs RTL synthesis
-   *abc- Performs technology mapping
-   *OpenSTA- performs static timing analysis
-   *Fast Route- Performs global routing
-   *TritonRoute- Performs detailed routing
-   *Magic- Streams out the layout of GDSII
+  Tools used in openlane are-  
+   1. Yosys - Performs RTL synthesis
+   2. abc- Performs technology mapping
+   3. OpenSTA- performs static timing analysis
+   4. Fast Route- Performs global routing
+   5. TritonRoute- Performs detailed routing
+   6. Magic- Streams out the layout of GDSII
   
   [Lab Exercise]
   
