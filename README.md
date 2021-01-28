@@ -73,13 +73,13 @@ alt="alt text"  >
       ![Capture2](https://user-images.githubusercontent.com/77826778/105607225-9e410800-5dc3-11eb-9516-fe645dad0811.PNG)
   
   # DAY 2:
-  [Theory]
+  *Theory*
    
    Floorplanning is the planning of placement of IO pads and macros as well as power and ground structure. It is an art of using optimum area and obtaining high performance.
    The floorplan is displaced in magic window.      
     
     
-  [Lab Exercise]
+  *Lab Exercise*
   
   1. Running floorplan: This is done using the command ```run_floorplan```.
      Some basic command to use in magic 
@@ -95,7 +95,7 @@ alt="alt text"  >
      ![Capture7](https://user-images.githubusercontent.com/77826778/105609360-cd10ab80-5dce-11eb-8f66-cf04798b1279.PNG)
   
   # DAY 3:
-  [Theory]
+  *Theory*
    
    16 MASK CMOS PREPARATION-
    Following are the steps in CMOS preparation-
@@ -110,7 +110,7 @@ alt="alt text"  >
     Higher level metal formation
     
     
-   [Lab Excercise]
+   *Lab Exercise*
    
    Layout tool (Magic) gives the display as shown below. The layout shown below is of inverter.
    ![Capture7](https://user-images.githubusercontent.com/77826778/106092070-9979ac80-6153-11eb-8f37-c66d251d6ee6.PNG)
@@ -132,7 +132,8 @@ alt="alt text"  >
    ![Capture14](https://user-images.githubusercontent.com/77826778/106092360-21f84d00-6154-11eb-92ef-93401b5c7e86.PNG)
     
    # DAY 4:
-   [Theory]
+   
+   *Theory*
    
    Skew is the time period between actual and expected arrival of clock signal.
    
@@ -142,7 +143,7 @@ alt="alt text"  >
    
    
    
-   [Lab Exercise]
+   *Lab Exercise*
    
    Grid changes can be done after checking the value in tracks.info
    
@@ -153,6 +154,7 @@ alt="alt text"  >
    ![1](https://user-images.githubusercontent.com/77826778/106150354-4595b480-61a1-11eb-895e-c677b100ca9b.PNG)
     
    The lef command writes LEF-format files, which are files containing technology information and information about the content of standard cells.
+   
    ![Capture151](https://user-images.githubusercontent.com/77826778/106150371-4a5a6880-61a1-11eb-8346-55bf77769083.PNG)
    
    Slack condition can be met by bringing following changes.
@@ -160,7 +162,8 @@ alt="alt text"  >
    ![2](https://user-images.githubusercontent.com/77826778/106151882-d8831e80-61a2-11eb-9d26-60bff8f9837d.PNG)
    
    # DAY 5:
-   [Theory]
+   
+   *Theory*
    
    Routing - Routing step takes place after placement. It involves connecting metal wires with pins of same signal. DRC (Design Rule Check) must not be violated in this process.    There are two types of routing performed-
    - Fast Route: Performs global routing by dividing it into small boxes. Using this we can analyse congestion.
