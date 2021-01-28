@@ -44,7 +44,7 @@ alt="alt text"  >
   
   
   # DAY 1:
- [Theory]
+ *Theory*
  
   OPENLANE : OpenLANE is a open source VLSI flow from RTL to GDSII built across open source tools such as OPENROAD, Yosys, Magic, Fault, etc.
   
