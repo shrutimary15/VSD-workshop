@@ -125,7 +125,8 @@ alt="alt text"  >
     :wq!-to quit 
     
    ![3](https://user-images.githubusercontent.com/77826778/106151760-b4274200-61a2-11eb-94dc-ebe82f5ecea0.PNG)
-    
+   
+   ngspice plots the graph as shown below.
    ![Capture14](https://user-images.githubusercontent.com/77826778/106092360-21f84d00-6154-11eb-92ef-93401b5c7e86.PNG)
     
    # DAY 4:
@@ -133,15 +134,44 @@ alt="alt text"  >
    
    [Lab Exercise]
    
-  
+   Grid changes can be done after checking the value in tracks.info
    
    ![Capture15](https://user-images.githubusercontent.com/77826778/106150340-40d10080-61a1-11eb-9df7-bc89d7fc6263.PNG)
-
+    
+   This is how the layout looks after changing grid. 
+   
    ![1](https://user-images.githubusercontent.com/77826778/106150354-4595b480-61a1-11eb-895e-c677b100ca9b.PNG)
-
+    
+   The lef command writes LEF-format files, which are files containing technology information and information about the content of standard cells.
    ![Capture151](https://user-images.githubusercontent.com/77826778/106150371-4a5a6880-61a1-11eb-8346-55bf77769083.PNG)
    
+   Slack condition can be met by bringing following changes.
+   
    ![2](https://user-images.githubusercontent.com/77826778/106151882-d8831e80-61a2-11eb-9d26-60bff8f9837d.PNG)
+   
+   # DAY 5:
+   [Theory]
+   
+   Routing - Routing step takes place after placement. It involves connecting metal wires with pins of same signal. DRC (Design Rule Check) must not be violated in this process.    There are two types of routing performed-
+   - Fast Route: Performs global routing by dividing it into small boxes. Using this we can analyse congestion.
+   - Triton Route: Performs detail routing. It also checks DRC.
+   
+   DRC- These are set of rules that need to be followed by metal lay to avoid DRC failure.
+   
+   Parasitic Extraction: This forms a virtual route and estimates congestion using the placement information of standard cells. This is to create an analog model of the circuit.
+   
+   SPEF is an IEEE standard which can be expanded as Standard Parasitic Exchange Format. They capture parasitic capacitances and resistances of non ideal wires.
+   
+   # References:
+    -https://github.com/nickson-jose/vsdstdcelldesign
+    -https://github.com/google/skywater-pdk
+    -http://opencircuitdesign.com/
+   
+   # Acknowledgements:
+    ^ Kunal Ghosh, Co-Founder (VSD CORP. PVT. LTD)
+    ^ Nickson Jose, Teaching Assistant (VSD CORP. PVT. LTD)
+
+   
    
    
    
