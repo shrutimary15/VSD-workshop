@@ -60,7 +60,8 @@ alt="alt text"  >
    5. TritonRoute- Performs detailed routing
    6. Magic- Streams out the layout of GDSII
   
-  [Lab Exercise]
+  
+  *Lab Exercise*
   
  1. Invoking OpenLANE: Picorv32a design can be synthesized using openLANE. OpenLANE can be invoked in interactive mode by using the command ```./flow.tcl -interactive```.  The       package can be included by using command ```package require openlane 0.9```. The design is prepared using the command ```prep -design picorv32a```. To edit any parameter in     config.tcl ```set env(PARAMETER_NAME) parameter_value``` command can be used. Use -overwrite to reflect these changes in design.
  
