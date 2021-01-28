@@ -127,10 +127,19 @@ alt="alt text"  >
    ![3](https://user-images.githubusercontent.com/77826778/106151760-b4274200-61a2-11eb-94dc-ebe82f5ecea0.PNG)
    
    ngspice plots the graph as shown below.
+   
    ![Capture14](https://user-images.githubusercontent.com/77826778/106092360-21f84d00-6154-11eb-92ef-93401b5c7e86.PNG)
     
    # DAY 4:
    [Theory]
+   
+   Skew is the time period between actual and expected arrival of clock signal.
+   
+   Hold time is the time for which an input must remain stable after the edge of the clock.
+   
+   Setup time is the time for which an input must remain stable before the edge of the clock.
+   
+   
    
    [Lab Exercise]
    
