@@ -107,5 +107,52 @@ alt="alt text"  >
     Source and drain formation
     Steps to form contacts and interconnects(local)
     Higher level metal formation
+    
+    
+   [Lab Excercise]
+   
+   Layout tool (Magic) gives the display as shown below. The layout shown below is of inverter.
+   ![Capture7](https://user-images.githubusercontent.com/77826778/106092070-9979ac80-6153-11eb-8f37-c66d251d6ee6.PNG)
+   
+   
+   The layout can be analysed using spice tool by giving the following commands in tkcon 2.3 main window.
+   ![Capture13](https://user-images.githubusercontent.com/77826778/106092274-f5443580-6153-11eb-9401-ce0d9e8390dd.PNG)
+   
+   The **config.tcl** file is modified as shown below. Modification can be done by-
+     
+    i-to insert
+    esc-to save
+    :wq!-to quit 
+    
+   ![3](https://user-images.githubusercontent.com/77826778/106151760-b4274200-61a2-11eb-94dc-ebe82f5ecea0.PNG)
+    
+   ![Capture14](https://user-images.githubusercontent.com/77826778/106092360-21f84d00-6154-11eb-92ef-93401b5c7e86.PNG)
+    
+   # DAY 4:
+   [Theory]
+   
+   [Lab Exercise]
+   
+  
+   
+   ![Capture15](https://user-images.githubusercontent.com/77826778/106150340-40d10080-61a1-11eb-9df7-bc89d7fc6263.PNG)
+
+   ![1](https://user-images.githubusercontent.com/77826778/106150354-4595b480-61a1-11eb-895e-c677b100ca9b.PNG)
+
+   ![Capture151](https://user-images.githubusercontent.com/77826778/106150371-4a5a6880-61a1-11eb-8346-55bf77769083.PNG)
+   
+   ![2](https://user-images.githubusercontent.com/77826778/106151882-d8831e80-61a2-11eb-9d26-60bff8f9837d.PNG)
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
   
  
