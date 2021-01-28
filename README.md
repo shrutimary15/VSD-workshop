@@ -9,37 +9,37 @@ alt="alt text"  >
 
 # **TABLE OF CONTENTS**
 
-  #**1. BASICS OF OPEN SOURCE EDA, OPENLANE AND SKY 130 PDK**
+  **1. BASICS OF OPEN SOURCE EDA, OPENLANE AND SKY 130 PDK**
   * Introduction to QFN 48 package,die,core and IPs
   * SOC design using OpenLANE
   * Simplified ASIC design
   * EDA tools
   * Lab: Import package of OpenLANE and run synthesis
   
-  #**2. IDEA OF FLOORPLAN AND PLACEMENT**
+  **2. IDEA OF FLOORPLAN AND PLACEMENT**
   * Utilization factor and aspect ratio, floor planning and preplaced cells, decoupling capacitors, power planning, pin placement
   * Library binding and placement
   * Cell Design Flow
   * Characterization flow
   
-  #**3. DESIGN AND CHARACTERISTICS ONE LIBRARY CELL USING MAGIC AND NGSPICE**
+  **3. DESIGN AND CHARACTERISTICS ONE LIBRARY CELL USING MAGIC AND NGSPICE**
   * ngspice simulation
   * 16 Mask CMOS fabrication
   * Sky130 tech file labs
   
-  #**4. PRELAYOUT TIMING ANALYSIS AND IMPORTANCE OF GOOD CLOCK**
+  **4. PRELAYOUT TIMING ANALYSIS AND IMPORTANCE OF GOOD CLOCK**
   * Timing modelling using delay tables
   * Clock tree synthesis
   * Timing analysis with real and ideal clocks
   
-  #**5. FINAL STEP**
+  **5. FINAL STEP**
   * Routing and Design Rule Check
   * Power distribution network 
   * Triton Route Features
   
-  #**6. REFERENCE**
+  **6. REFERENCE**
   
-  #ACKNOWLEDGEMENT
+  ACKNOWLEDGEMENT
   
   
   
