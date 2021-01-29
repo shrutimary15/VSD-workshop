@@ -1,11 +1,9 @@
 # ****VSD-WORKSHOP****
 This repository presents the information about the 5 day workshop conducted by VLSI system design. The workshop is based on Advanced Physical Design using OpenLANE/SOC.The schedule is given below followed by detailed account:
 (Image Courtesy: Google) 
-<p align="center">
-<img src="https://github.com/shrutimary15/VSD-workshop/blob/main/photo_2021-01-23_19-54-03.jpg" 
-alt="alt text"  >
-<p/>
-<br/>
+
+![Advanced-Physical-Design-using-OpenLANE_Sky130_1](https://user-images.githubusercontent.com/77826778/106233929-a662d280-621d-11eb-96d7-5904b4931ac5.png)
+
 
 # **TABLE OF CONTENTS**
 
