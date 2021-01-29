@@ -57,6 +57,9 @@ This repository presents the information about the 5 day workshop conducted by V
    4. Fast Route- Performs global routing
    5. TritonRoute- Performs detailed routing
    6. Magic- Streams out the layout of GDSII
+   
+   
+         ![Capture](https://user-images.githubusercontent.com/77826778/106234545-0d34bb80-621f-11eb-9ce5-5b72c6a7cb3c.PNG)
   
   
   *Lab Exercise*
