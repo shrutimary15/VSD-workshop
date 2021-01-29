@@ -81,7 +81,14 @@ This repository presents the information about the 5 day workshop conducted by V
    Floorplanning is the planning of placement of IO pads and macros as well as power and ground structure. It is an art of using optimum area and obtaining high performance.
    The floorplan is displaced in magic window.     
    
-   Utilization Factor
+   **Utilization Factor** is the ratio of area occupied by netlist to total area of the core. Ideally, utilization factor is 50 to 60%.
+   
+   **Aspect Ratio** is the ratio of height to width of the core.
+   
+   **Preplaced Cells** are IPs/blocks having user defined location and hence are placed in chip before automated placement and routing and are called preplaced cells.
+   Decoupling Capacitor is a huge capacitor filled with charge connected across circuit. It supplies current to circuit and lies close to the circuit. This helps in avoiding        problems when VDD is at a large physical distance from circuit.
+   
+   The connectivity information between gates is called 'netlist' coded using VHDL or verilog language.
     
     
   *Lab Exercise*
