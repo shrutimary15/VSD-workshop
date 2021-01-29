@@ -44,12 +44,14 @@ This repository presents the information about the 5 day workshop conducted by V
   # DAY 1:
  *Theory*
  
-  OPENLANE : OpenLANE is a open source VLSI flow from RTL to GDSII built across open source tools such as OPENROAD, Yosys, Magic, Fault, etc.
+  **OPENLANE**: OpenLANE is a open source VLSI flow from RTL to GDSII built across open source tools such as OPENROAD, Yosys, Magic, Fault, etc.
   
-  SKY130A: The SkyWater Open Source PDK is a collaboration between Google and SkyWater Technology Foundry to provide a fully open source Process Design Kit.
+  **SKY130A**: The SkyWater Open Source PDK is a collaboration between Google and SkyWater Technology Foundry to provide a fully open source Process Design Kit.
   
-  The process begins with synthesis then followed by floor planning, power planning, placement, routing and static timing analysis. The figure below shows the flow diagram of     complete process.(Image Courtesy: Google)
+  The process begins with synthesis then followed by floor planning, power planning, placement, routing and static timing analysis. The figure below shows the flow diagram of     complete process._(Image Courtesy: Google)_
+  
   ![openlane flow 1](https://user-images.githubusercontent.com/77826778/105610075-7fe30880-5dd3-11eb-8927-1b4b084010de.png)
+  
   Tools used in openlane are-  
    1. Yosys - Performs RTL synthesis
    2. abc- Performs technology mapping
@@ -77,7 +79,9 @@ This repository presents the information about the 5 day workshop conducted by V
   *Theory*
    
    Floorplanning is the planning of placement of IO pads and macros as well as power and ground structure. It is an art of using optimum area and obtaining high performance.
-   The floorplan is displaced in magic window.      
+   The floorplan is displaced in magic window.     
+   
+   Utilization Factor
     
     
   *Lab Exercise*
